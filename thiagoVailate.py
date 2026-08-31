@@ -1,5 +1,5 @@
 #ATIVIDADE 1: Cofrinho do Pedrinho (Lá ele)
-'''moeda1 = int(input('Quantidade de moedas de 1 centavo: '))
+moeda1 = int(input('Quantidade de moedas de 1 centavo: '))
 moeda5 = int(input('Quantidade de moedas de 5 centavos: '))
 moeda10 = int(input('Quantidade de moedas de 10 centavos: '))
 moeda25 = int(input('Quantidade de moedas de 25 centavos: '))
@@ -102,4 +102,3 @@ multa = (c1 + c2) * 0.02
 resto_salario = joao_salario - c1 - c2 - multa
 
 print(f'Restou R$ {resto_salario:.2f} do João')
-'''
